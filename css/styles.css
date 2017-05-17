@@ -722,7 +722,7 @@ to { opacity: 1 }
 .telek {
   height: 425px;
   width: 700px;
-  background: url(https://cdn.pixabay.com/photo/2017/04/18/01/29/television-2237425_960_720.png) no-repeat center;
+  background: url(../img/tv.png) no-repeat center;
   -webkit-background-size: contain;
   background-size: contain;
   position: relative;
